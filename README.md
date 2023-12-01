@@ -1,2 +1,4 @@
 # New-Coding-Bot
-coding center
+This is my first file.
+Author- Manas Patel
+
